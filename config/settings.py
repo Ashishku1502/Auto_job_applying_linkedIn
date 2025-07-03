@@ -1,6 +1,6 @@
 '''
 Author:     Ashish Kumar
-LinkedIn:   https://www.gnu.org/licenses/agpl-3.0.en.html
+LinkedIn:   https://www.linkedin.com/in/ashish-kumar-a39a17345/
 
 Copyright (C) 2024 Ashish Kumar
 
