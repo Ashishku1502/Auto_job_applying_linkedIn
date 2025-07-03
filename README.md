@@ -50,7 +50,7 @@ cd Auto_job_applier_linkedIn
 
 ### Option B: Download ZIP
 
-1. Go to [https://github.com/GodsScion/Auto\_job\_applier\_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn)
+1. Go to [https://github.com/Ashishku1502/Auto_job_applying_linkedIn](https://github.com/Ashishku1502/Auto_job_applying_linkedIn)
 2. Click **“Code > Download ZIP”**
 3. Extract the contents and open in VSCode or file explorer
 
