@@ -1,8 +1,8 @@
 '''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
+Author:     Ashish Kumar
+LinkedIn:   https://www.linkedin.com/in/ashish-kumar-a39a17345/
 
-Copyright (C) 2024 Sai Vignesh Golla
+Copyright (C) 2024 Ashish Kumar
 
 License:    GNU Affero General Public License
             https://www.gnu.org/licenses/agpl-3.0.en.html
