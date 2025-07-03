@@ -44,7 +44,7 @@ If pip is not recognized, close and reopen terminal or reinstall Python with PAT
 ### Option A: Using Git
 
 ```bash
-git clone https://github.com/GodsScion/Auto_job_applier_linkedIn.git
+git clone https://github.com/Ashishku1502/Auto_job_applying_linkedIn.git
 cd Auto_job_applier_linkedIn
 ```
 
