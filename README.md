@@ -1,6 +1,4 @@
-Here's a **step-by-step guide** to install, configure, and run the **Auto Job Applier for LinkedIn** from the `Auto_job_applier_linkedIn` GitHub repository. This walkthrough is especially tailored for **Windows users**, assuming you want to proceed manually and understand each step (without relying solely on `windows-setup.bat`).
 
----
 
 ## ✅ **Step 1: Install Python (3.10 or above)**
 
