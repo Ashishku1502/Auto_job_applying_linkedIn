@@ -157,9 +157,6 @@ To view applied job history:
 python app.py
 ```
 
-Open browser at:
-[http://localhost:5000](http://localhost:5000)
-
 ---
 
 ## 🔧 Developer Note
@@ -173,12 +170,5 @@ Follow the contributor coding style if you want to modify the code:
 
 ---
 
-## ✅ **Discord Community**
-
-Need help or want to chat?
-Join the Discord server:
-👉 [https://discord.gg/fFp7uUzWCY](https://discord.gg/fFp7uUzWCY)
-
----
 
 Let me know if you'd like me to **automate** your resume generation or configure this on your PC remotely using a script.
